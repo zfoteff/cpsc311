@@ -45,4 +45,6 @@ Design Concepts are Generalizable Abstractions
 
 *Ex*: Doorknobs afford (are for) turning
 
-**Signifier**: A markerin, label, or indication of what can be done with an object or where action on object should take place
+**Signifier**: A marking, label, or indication of what can be done with an object or where action on object should take place
+
+* Signifiers *signify* affordances
